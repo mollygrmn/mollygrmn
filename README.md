@@ -6,7 +6,7 @@
 ![I am a data enthusiast and a curious learner]
 I am currently working on getting my Google Data Analytics Certificate in the Merit America program. I also am studying data analytics on TikTok creator Charlotte Chaze' free course.  Excited to be starting my journey in this ever excel-lerating world of data.
 
-###Skills:
+Skills:
 
 
 SQL💡| R® | Tableau📈 | Python🐍 | Uno
