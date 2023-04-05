@@ -16,4 +16,3 @@ Skills: SQL | R | Tableau | Python | Uno
 
   
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mollygrmn)](https://github.com/anuraghazra/github-readme-stats)
