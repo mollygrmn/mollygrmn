@@ -1,10 +1,10 @@
 ### Hi there 👋, my name is Molly
-#### I am a data enthusiast and a curious learner
-![I am a data enthusiast and a curious learner](https://media.makeameme.org/created/data-dataeverywhere.jpg)
 
-I am currently working on getting my Google Data Analytics Certificate in the Merit America program. I also am studying data analytics on TikTok creator Charlotte Chaze' free course.  Excited to be starting my journey in this ever excel-lerating world of data.
+![Alt Text] (https://media.giphy.com/media/1Z0IXKF155R5fl7t0q/giphy.gif)
 
-Skills: SQL | R | Tableau | Python | Uno 
+I recently received my Google Data Analytics Certificate and on my way to completing my bootcamp in the Merit America Program.  Excited to be starting my journey in this ever excel-lerating world of data.
+
+Skills: SQL | R | Tableau | Python 
 
 - 🔭 I’m currently working on this page. 
 
