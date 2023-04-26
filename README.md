@@ -1,5 +1,3 @@
-![banner](
-
 
 <p align="center">
     <img width="300" height="300" src="https://media.giphy.com/media/fTn5VrGlWnfhvgVWtq/giphy.gif">
