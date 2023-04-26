@@ -1,11 +1,7 @@
-<div style="background-color: black;">
-  <p float="left">
-    <img src="https://media.giphy.com/media/JAh69JIMvVAvdOQSOS/giphy.gif" width="300" height="300" />
-    <img src="https://media.giphy.com/media/1Z0IXKF155R5fl7t0q/giphy.gif" width="300" height="300" />
+<p align="center">
+    <img width="300" height="300" src="https://media.giphy.com/media/IgGcxqawkRc6y43Z6I/giphy.gif">
+    <img width="300" height="300" src="https://media.giphy.com/media/1Z0IXKF155R5fl7t0q/giphy.gif">
   </p>
-</div>
-
-
  
 
 #### Hello fellow data enthusiasts👋, my name is Molly
@@ -15,6 +11,10 @@ I'm thrilled to share that I've recently received the Google Data Analytics Cert
 Skills: SQL | R | Tableau | Python | Excel
 
 - 🔭 I’m currently working on this page. 
+
+<p align="center">
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=mollygrmn&theme=default" height="320" />
+  </p>
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/buymeacoffee.svg' alt='buymeacoffee' height='40'>](https://mollygrmn.github.io/portfolio/#)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/molly-gorman/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/21522209) 
