@@ -4,15 +4,10 @@
   </p>
  
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/118074280/235782601-00485ed8-db1b-4378-abaf-1f335322476d.png" alt="maneki neko" height="40">
+ <u><strong>A Little About Me:</strong></u>
 </p>
 
-<p align="center" style="font-size: 27px;">
-  <u><strong>A Little About Me</strong></u>
-</p>
 
-<p align="center"> 
-Here are some key things to know about me:</p>
 
 <p align="center">🚀 Recently completed my Google Data Analytics certificate</p>
 
@@ -27,13 +22,11 @@ Here are some key things to know about me:</p>
 
   
 
-<p align="center"
-- 🔭 I’m currently working on this page. 
-    </p>
 
 
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=mollygrmn&theme=default" height="290" />
-
+ <p align="center">  
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=mollygrmn&theme=default" height="220" />
+   </p>
 
 <p>
     
@@ -50,7 +43,7 @@ Here are some key things to know about me:</p>
 </p>
 
 <p align="center">
-    <img width="180" height="180" src="https://media.giphy.com/media/1Z0IXKF155R5fl7t0q/giphy.gif">
+    <img width="150" height="150" src="https://media.giphy.com/media/1Z0IXKF155R5fl7t0q/giphy.gif">
     </p>
 
 
