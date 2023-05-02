@@ -1,17 +1,30 @@
 
 <p align="center">
-    <img width="300" height="300" src="https://media.giphy.com/media/JAh69JIMvVAvdOQSOS/giphy.gif">
-    <img width="300" height="300" src="https://media.giphy.com/media/1Z0IXKF155R5fl7t0q/giphy.gif">
+   <img width="850" height="275" src="https://user-images.githubusercontent.com/118074280/235775032-7ab78856-5c2b-4b01-9a55-64c2de49bdce.png">
   </p>
  
 <p align="center">
-Hello fellow data enthusiasts👋, my name is Molly </p>
+    <img src="https://user-images.githubusercontent.com/118074280/235782601-00485ed8-db1b-4378-abaf-1f335322476d.png" alt="maneki neko" height="40">
+</p>
 
- 
-<p align="center"> I'm thrilled to share that I've recently received the Google Data Analytics Certificate, and I'm currently working my way through the Merit America Program. I'm always eager to expand my horizons and explore new frontiers in data. I'm proficient in SQL, Python, and Tableau, and I love finding innovative ways to harness their power. It's an exciting time to be part of the dynamic and ever excel - lerating world of data. </p>
-<p align="center">
-Skills: SQL | R | Tableau | Python | Excel
-    </p>
+<p align="center" style="font-size: 27px;">
+  <u><strong>A Little About Me</strong></u>
+</p>
+
+<p align="center"> 
+Here are some key things to know about me:</p>
+
+<p align="center">🚀 Recently completed my Google Data Analytics certificate</p>
+
+<p align="center">✨ Skilled in SQL | Excel | Tableau | R | Python </p>
+
+<p align="center">📈 Always eager to learn more and take on new challenges</p>
+
+<p align="center">🎯 Passionate about diving into data to help companies make sense of it 🕵️‍♀️</p>
+
+<p align="center"> As a lifelong learner, I'm always on the lookout for new challenges and adventures. Analysis, process, and problem-solving are my bread and butter. So, if you're someone who loves to dive into data and extract insights, you've come to the right place. Thanks for stopping by, and I hope you enjoy the journey with me! </p>
+
+
   
 
 <p align="center"
@@ -22,8 +35,23 @@ Skills: SQL | R | Tableau | Python | Excel
 <img src="https://github-readme-activity-graph.cyclic.app/graph?username=mollygrmn&theme=default" height="290" />
 
 
+<p>
+    
+ <p align="center">    
+    <a href="https://www.linkedin.com/in/molly-gorman/" style="display:inline-block;">
+        <img src="https://user-images.githubusercontent.com/118074280/235778807-1ab10532-54bb-4c99-a34e-5f4adb9cf75f.png" alt="linkedin" height="40">
+    </a>
+    <a href="https://stackoverflow.com/users/21522209" style="display:inline-block;">
+        <img src="https://user-images.githubusercontent.com/118074280/235779649-b94e344e-baba-4c86-805e-a162a0b96096.png" alt="stackoverflow" height="40">
+    </a>
+    <a href="https://public.tableau.com/app/profile/molly.gorman" style="display:inline-block;">
+        <img src="https://user-images.githubusercontent.com/118074280/235780275-3759bb7a-c4a7-40fc-9d60-dda465e97b50.png" alt="tableau" height="40">
+    </a>
+</p>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/molly-gorman/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/21522209) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/tableau.svg' alt='tableau' height='40'>](https://public.tableau.com/app/profile/molly.gorman)  
+<p align="center">
+    <img width="180" height="180" src="https://media.giphy.com/media/1Z0IXKF155R5fl7t0q/giphy.gif">
+    </p>
 
 
 
